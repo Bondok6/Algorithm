@@ -1,3 +1,6 @@
+/*
+	O(m*n)=(N^2)
+*/
 #include<iostream>
 using namespace std;
 
