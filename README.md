@@ -1,3 +1,2 @@
 # Algorithms
-some Codes &amp; Algorithms 
-(sorting)
+some Codes &amp; Algorithms.
